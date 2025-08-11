@@ -1,0 +1,1 @@
+this is a depiction for a dungeon and dragon historical campaign in the drawing style of Todd Lockwood in the Forgotten Realms. The scene is Yhulia Velan, the Master of Coin, presenting a commemorative silver coin to the council. She is an elegant woman in her fifties, wearing robes of deep gold with subtle embroidery of coins and scales, symbols of Waukeen.

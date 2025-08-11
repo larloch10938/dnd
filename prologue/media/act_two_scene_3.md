@@ -1,0 +1,1 @@
+this is a depiction for a dungeon and dragon historical campaign in the drawing style of Todd Lockwood in the Forgotten Realms. The scene is the Homage of the Estates. Nobles are kneeling one by one before the newly crowned King Lohe, placing their hands between his in a gesture of submission. The King is seated on his throne.

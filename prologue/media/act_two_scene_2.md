@@ -1,0 +1,1 @@
+this is a depiction for a dungeon and dragon historical campaign in the drawing style of Todd Lockwood in the Forgotten Realms. The scene is the anointing of Duke Lohe in the Great Cathedral. Lohe is kneeling on a velvet cushion before the altar. The High Priest Boris is anointing him with holy oil from a silver vial. Other Celestials are gathered around.

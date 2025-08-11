@@ -5,10 +5,12 @@ The players are introduced to the setting. They are low born people, so they foc
 a routine hunt for food or tracking wild game. Given it's winter it's a difficult task.
     2) The village:
 They are born in a very small village, Okton, which is close to Elkwood. Okton is one of the manors of Ser Mardo of Izra, a valiant knight and only survivor of the battle of Izra. The lord of Ser Mardo is Baron John Khaven, which is under Countess Andras, the light of the Morning. The village of Okton is sometime visited by faeries who leave circles of mushrooms or other small signs of their existence. The players report to Ralf, the hunting leader. The village is small, it's built mostly on one street next or into the woods. They heard about big hunt where the Duke himself joined, and they often fantasize of being knights.
-    3) Military Parade:
+    3) Death of the Duke:
+An herald from Allania travels the land to announce that the Duke as succumbed to a dark illness.
+    4) Military Parade:
 Ser Mardo invites the players to join him in a journey south to see the high level players. They are able to see the son of the Duke, Noah Wood, together with the rest of the group traveling to Emrys. While witnessing the parade they also see a case of grey hunger. It's very violent and the person who dies become a Ghoul in a few second. They need to stop it and they are congratulated by the high level players for that.
-    4) Death of the Duke:
-An herald from Allania travels the land to announce that the Duke as succumbed to a dark illness. People call the illness the grey hunger. Some people in Okton succumb to it as well. The players need to fetch some help from a local healer, but overall they understand the illness has no cure. This is a tragic moment, as Shar replace Loviatar and reveals herself as the ninth daughter.
+    5) The Grey hunger:
+People call the illness the grey hunger. Some people in Okton succumb to it as well. The players need to fetch some help from a local healer, but overall they understand the illness has no cure. This is a tragic moment, as Shar replace Loviatar and reveals herself as the ninth daughter.
     5) Training:
 The player are swiftly recruited as recruiters for the army and need to rally the troops in the barony of Elkwood. Many people are dead, by they need to raise as many people as possible to defend the woods. Minigame on recrutiment, trying to get to the maximum amount of people. Given their success they are asked to help in Drelev too.
     6) Sent to Drelev:

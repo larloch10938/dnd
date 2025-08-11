@@ -1,0 +1,1 @@
+this is a depiction for a dungeon and dragon historical campaign in the drawing style of Todd Lockwood in the Forgotten Realms. The scene is a private conversation between Duke Lohe and Dastan. Duke Lohe's posture is slumped with fatigue. Dastan is concerned. They are in the council chamber, alone.

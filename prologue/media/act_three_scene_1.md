@@ -1,0 +1,1 @@
+this is a depiction for a dungeon and dragon historical campaign in the drawing style of Todd Lockwood in the Forgotten Realms. The scene is the political chessboard. King Lohe and his council are in a richly decorated room adjacent to the main feasting hall. They are discussing the political situation of the kingdom. King Lohe is seated, looking pale and fatigued.
