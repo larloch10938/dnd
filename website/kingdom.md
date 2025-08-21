@@ -6,7 +6,7 @@
 - **Duchy of the East** (Varnhold): Eastern stronghold; currently under regency due to the **vacant title of Jambis** and unresolved leadership issues.  
 - **Duchy of the West** (March of Drelev): Cursed region; governed by **Queen Julia's sister**.  
 - **Duchy of the Ruby** (Allania): Capital region.  
-- **Independent County**: **Tok Nak Durgak** (Gul Nak), ruled by **Baron Tok Nak Durgak**, also known as the "Blind Baron," who answers directly to the crown. Surrounded by fertile fields, it serves as a critical trade hub for dwarves.  
+- **Independent County**: **Tok Nak Durgak** (Gul Nak), ruled by **[[Baron Tok Nak Durgak]]**, also known as the "Blind Baron," who answers directly to the crown. Surrounded by fertile fields, it serves as a critical trade hub for dwarves.  
 
 ### Family Ties & Political Intrigue  
 - **Baron Guglielmo Edelroth** (Ruby) is the father of **Count Aethan Edelroth** (West).  
