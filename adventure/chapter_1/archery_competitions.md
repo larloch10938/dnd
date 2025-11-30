@@ -1,9 +1,9 @@
-|**Competition Type**|**Description**|**Frequency**|
-|---|---|---|
-|**Clout Shooting**|Arrows arched high to hit a ground target|Regular local practice|
-|**Roving Marks**|Shooting at successive targets across landscapes|Informal, seasonal|
-|**Butt Shooting**|Shooting at earthen mounds with targets|Weekly practice (Sunday)|
-|**Society Meetings**|Organized competitions by archery societies|Annual festivals|
+| **Competition Type** | **Description**                                  | **Frequency**            |
+| -------------------- | ------------------------------------------------ | ------------------------ |
+| **Clout Shooting**   | Arrows arched high to hit a ground target        | Regular local practice   |
+| **Roving Marks**     | Shooting at successive targets across landscapes | Informal, seasonal       |
+| **Butt Shooting**    | Shooting at earthen mounds with targets          | Weekly practice (Sunday) |
+| **Society Meetings** | Organized competitions by archery societies      | Annual festivals         |
 
 ## 👑 Factors in Archery's Popularity in England
 
